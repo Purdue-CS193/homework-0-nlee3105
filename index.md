@@ -1,6 +1,6 @@
 ## Noah Lee's first CS193 Homework
 
-# Things I enjoy about CS193
+### Things I enjoy about CS193
 - The instructors seem approachable and welcoming
 - The class will provide me with a good foundation for my future CS courses
 
