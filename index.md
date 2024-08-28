@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Noah Lee's first CS193 Homework
+
+# Things I enjoy about CS193
+- The instructors seem approachable and welcoming
+- The class will provide me with a good foundation for my future CS courses
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Noah Lee's first website
+# Header 1
 ## Header 2
 ### Header 3
 
